@@ -20,7 +20,7 @@
     "jikanjs": "^0.7.0",
     "level": "^6.0.1",
     "mal-api": "^2.0.0",
-    "mal-scraper": "^2.7.1",
+    "mal-scraper": "^2.11.3",
     "moment": "^2.27.0",
     "node-run-cmd": "^1.0.1",
     "random-anime": "^1.0.6",
