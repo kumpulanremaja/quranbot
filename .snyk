@@ -1,0 +1,18 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - anime-scraper > lodash:
+        patched: '2022-03-25T21:15:56.595Z'
+    - '@open-wa/wa-automate > typescript-parser > lodash':
+        patched: '2022-03-25T21:15:56.595Z'
+    - mal-scraper > cheerio > lodash:
+        patched: '2022-03-25T21:15:56.595Z'
+    - '@open-wa/wa-automate > postman-2-swagger > postman-collection > lodash':
+        patched: '2022-03-25T21:15:56.595Z'
+    - '@open-wa/wa-automate > typedoc-neo-theme > typedoc > lodash':
+        patched: '2022-03-25T21:15:56.595Z'
+    - wa-decrypt > request-promise-native > request-promise-core > lodash:
+        patched: '2022-03-25T21:15:56.595Z'
