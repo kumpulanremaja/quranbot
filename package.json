@@ -10,7 +10,7 @@
   "author": "Somnath Das and Alen Yohannan",
   "license": "Apache-2.0",
   "dependencies": {
-    "@open-wa/wa-automate": "^2.0.0",
+    "@open-wa/wa-automate": "^3.0.15",
     "akaneko": "^3.0.2",
     "anime-scraper": "^3.1.1",
     "booru-fetcher": "^2.0.1",
